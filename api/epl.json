@@ -1,0 +1,126 @@
+{
+  "season-start": 2016,
+  "season-end" : 2017,
+  "clubs": [
+    {
+      "key": "chelsea",
+      "name": "Chelsea",
+      "code": "CHE",
+      "standing": 1
+    },
+    {
+      "key": "tottenham",
+      "name": "Tottenham Hotspur",
+      "code": "TOT",
+      "standing": 2
+    },
+    {
+      "key": "liverpool",
+      "name": "Liverpool",
+      "code": "LIV",
+      "standing": 3
+    },
+    {
+      "key": "arsenal",
+      "name": "Arsenal",
+      "code": "ARS",
+      "standing": 6
+    },
+    {
+      "key": "westham",
+      "name": "West Ham United",
+      "code": "WHU",
+      "standing": 15
+    },
+    {
+      "key": "manutd",
+      "name": "Manchester United",
+      "code": "MUN",
+      "standing": 5
+    },
+    {
+      "key": "crystalpalace",
+      "name": "Crystal Palace",
+      "code": "CRY",
+      "standing": 16
+    },
+    {
+      "key": "mancity",
+      "name": "Manchester City",
+      "code": "MCI",
+      "standing": 4
+    },
+    {
+      "key": "everton",
+      "name": "Everton",
+      "code": "EVE",
+      "standing": 7
+    },
+    {
+      "key": "westbrom",
+      "name": "West Bromwich Albion",
+      "code": "WBA",
+      "standing": 8
+    },
+    {
+      "key": "stoke",
+      "name": "Stoke City",
+      "code": "STK",
+      "standing": 11
+    },
+    {
+      "key": "sunderland",
+      "name": "Sunderland",
+      "code": "SUN",
+      "standing": 20
+    },
+    {
+      "key": "southampton",
+      "name": "Southampton",
+      "code": "SOU",
+      "standing": 13
+    },
+    {
+      "key": "leicester",
+      "name": "Leicester City",
+      "code": "LEI",
+      "standing": 10
+    },
+    {
+      "key": "bournemouth",
+      "name": "Bournemouth",
+      "code": "BOU",
+      "standing": 14
+    },
+    {
+      "key": "watford",
+      "name": "Watford",
+      "code": "WAT",
+      "standing": 9
+    },
+    {
+      "key": "burnley",
+      "name": "Burnley",
+      "code": "BUR",
+      "standing": 12
+    },
+    {
+      "key": "hull",
+      "name": "Hull City",
+      "code": "HUL",
+      "standing": 18
+    },
+    {
+      "key": "middlesbrough",
+      "name": "Middlesbrough",
+      "code": "MFC",
+      "standing": 19
+    },
+    {
+      "key": "swansea",
+      "name": "Swansea",
+      "code": "SWA",
+      "standing": 17
+    }
+  ]
+}
